@@ -14,7 +14,7 @@ SELECT
   property_id,
   COUNT(*) AS booking_count,
   ROW_NUMBER() OVER (ORDER BY COUNT(*) DESC) AS booking_rank,
-  RANK() OVER (ORDER BY COUNT(*) DESC) AS booking_rank_with_ties,
+  RANK() OVER (ORDER BY COUNT(*) DESC) AS booking_rank_with_ties
 FROM
   bookings
 GROUP BY
