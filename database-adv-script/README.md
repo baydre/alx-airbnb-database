@@ -1,23 +1,14 @@
----
-
-## 📘 Final Touch: `README.md`
-
-Here’s a structure to summarize your tasks clearly in `README.md`.
-
-```markdown
-# 🏡 Airbnb Clone - Backend Performance Tasks
+# 🏡 Airbnb Database Clone - Unleashing Advanced Querying Power
 
 ## 🧩 Overview
 
-This repository contains SQL files and reports focused on improving the performance of a backend Airbnb-style application using:
+This repository implements advanced SQL querying and optimization techniques to work with a simulated Airbnb database. It contains SQL files and reports focused on improving the performance of a backend Airbnb-style application using:
 
 - Indexing
 - Aggregations
 - Query Optimization
 - Partitioning
 - Monitoring
-
----
 
 ## ✅ Tasks Summary
 
