@@ -1,4 +1,4 @@
-# 🏡 Airbnb Database Clone - Unleashing Advanced Querying Power
+# 🏡 Airbnb Database - Unleashing Advanced Querying Power
 
 ## 🧩 Overview
 
